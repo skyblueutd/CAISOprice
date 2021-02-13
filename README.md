@@ -10,7 +10,7 @@ https://core.ac.uk/download/pdf/222446995.pdf
 
 
 
-There is a new tool (NeuralProphet) with Pytorch for time series forecasting. It seems it is not a GAN thought it is helpful.
+There is a new tool (NeuralProphet) with Pytorch for time series forecasting. It seems it is not a GAN though it is helpful.
 https://ourownstory.github.io/neural_prophet/model-overview/
 https://github.com/ourownstory/neural_prophet
 
