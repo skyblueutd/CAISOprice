@@ -14,5 +14,5 @@ There is a new tool (NeuralProphet) with Pytorch for time series forecasting. It
 https://ourownstory.github.io/neural_prophet/model-overview/
 https://github.com/ourownstory/neural_prophet
 
-I can not find a way to do multi-variable prediction with NeuralProphet... But I find a wat to do that with LSTM(Keras)
+I can not find a way to do multi-variable prediction with NeuralProphet... But I find a way to do that with LSTM(Keras)
 https://github.com/skyblueutd/BeijingAirPollutionPrediction
