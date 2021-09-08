@@ -16,3 +16,6 @@ https://github.com/ourownstory/neural_prophet
 
 I can not find a way to do multi-variable time series prediction with NeuralProphet... But I find a way to do that with LSTM(Keras)
 https://github.com/skyblueutd/BeijingAirPollutionPrediction
+
+There is a Kaggle competiton on spain electricity price
+https://github.com/skyblueutd/ElectricityPrice
